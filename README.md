@@ -20,3 +20,7 @@
 [website]: https://ricdros.com
 [twitter]: https://twitter.com/ricdros
 [linkedin]: https://www.linkedin.com/in/ricardodrosales/
+
+<br />
+
+![missingcharacter's GitHub stats](https://github-readme-stats.vercel.app/api?username=missingcharacter&show_icons=true)
